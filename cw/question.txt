@@ -1,0 +1,4 @@
+1. WAP to perform addition of two numbers (with scanf and without scanf function). 
+2. WAP to find area and perimeter of any triangle. ( length of three sides will be user input.)
+3. WAP to find the average of three numbers. 
+4. WAP to swap the values of two numbers without using third variables. (if a = 20, b = 10 then output will be a = 10, b = 20)
